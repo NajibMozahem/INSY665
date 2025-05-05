@@ -28,3 +28,9 @@ ENV/
 
 # Logs
 *.log 
+
+# HTML exports from notebooks
+*.html 
+
+# Folders to exclude
+Labs/ 
