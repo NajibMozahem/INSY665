@@ -34,4 +34,7 @@ ENV/
 
 # Folders to exclude
 Labs/
-Assignments/ 
+Assignments/
+
+# Python files
+*.py 
