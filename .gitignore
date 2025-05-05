@@ -33,4 +33,5 @@ ENV/
 *.html 
 
 # Folders to exclude
-Labs/ 
+Labs/
+Assignments/ 
